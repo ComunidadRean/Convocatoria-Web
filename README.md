@@ -4,6 +4,13 @@ Este es el repositorio oficial de WowRean en donde publicaremos los cuestionario
 
 El acceso a dichas pruebas serán temporales, podrás consultar si están disponibles en nuestros [foros de la comunidad](http://www.wowrean.es/wow/es/foro/viewforum.php?id=5 "foros de la comunidad").
 
+## Reglas obligatorias ##
+
+**Estas normas son fundamentales cuando respondais y nos envieis las respuestas, es necesario cumplirlas.**
+
+- Escribre código en Inglés.
+- Documenta siempre todo tu código.
+
 ## Importante ##
 
 Recuerda que estas pruebas son públicas, por lo que puedes hacer un `fork` hacia tu github personal o directamente hacer `clone` para probar y responder las preguntas más facilmente.

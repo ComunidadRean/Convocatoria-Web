@@ -47,16 +47,13 @@ defined ('PATH') OR exit ('No direct access is allowed.');
   				</div>
   		</div>
 
-     
-
-
-            <div class="alert alert-info" role="alert">Work below if you like, remember <b>copy and paste</b> the code after finish!</div>
-            <div class="panel panel-danger">
-              <div class="panel-heading">Code editor</div>
-                <div class="panel-body">
-                  <textarea id="code" name="code"><h1>Type here your code!</h1></textarea>
-                </div>
+      <div class="alert alert-info" role="alert">Work below if you like, remember <b>copy and paste</b> the code after finish!</div>
+        <div class="panel panel-danger">
+          <div class="panel-heading">Code editor</div>
+            <div class="panel-body">
+                <textarea id="code" name="code"><h1>Type here your code!</h1></textarea>
             </div>
+        </div>
       </div>
             <script>
               var editor = CodeMirror.fromTextArea(document.getElementById("code"), {

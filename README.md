@@ -32,4 +32,4 @@ Es fundamental que leas todo el post de la convocatoria para saber exactamente l
     git clone https://github.com/ComunidadRean/Convocatoria-Web.git
     cd Convocatoria-Web
 
-¡Listo! [Accede a las pruebas.](127.0.0.1)
+¡Listo! [Accede a las pruebas.](http://127.0.0.1)

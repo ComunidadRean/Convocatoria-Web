@@ -27,7 +27,6 @@
     				<p><a href="2014/?quest=php-security">Question 2. PHP Security.</a></p>
     				<p><a href="2014/?quest=php-dp-oop">Question 3. Design patterns and Object-oriented programming.</a></p>
     				<p><a href="2014/?quest=php-mistakes">Question 4. Found the mistakes.</a></p>
-    				<p><a href="2014/?quest=php-questionary">Question 5. Fast questionary.</a></p>
   				</div>
   			</div>
   		</div>
